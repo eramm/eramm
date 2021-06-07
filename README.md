@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevSecOps
 - 🌱 I’m currently learning lots of stuff !!
 - 💞️ I’m looking to collaborate on anything security related
-- 📫 How to reach me right here :-)
+- 📫 Talk to me !
 
 <!---
 eramm/eramm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
